@@ -1,6 +1,6 @@
 cask 'electrumsv' do
-  version '1.1.0'
-  sha256 '9c1c0d91ffe36e2e18317dcb1a611d10c87b3f12b7a18c0ff15aab9b0c8870f1'
+  version '1.1.2'
+  sha256 'edb28bd165d12617daeb89b1a601e4eb31689e9cb658895b2e0501774cefd5e9'
 
   url "https://electrumsv.io/download/#{version}/ElectrumSV-#{version}.dmg"
   appcast 'https://github.com/electrumsv/electrumsv/releases.atom'

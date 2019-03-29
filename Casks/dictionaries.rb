@@ -1,6 +1,6 @@
 cask 'dictionaries' do
-  version '1.2.7,252:1540657812'
-  sha256 'ab8e73f434e2bc15076bc9b6a160b616d7220c759d4f99d8e8dcb46b07f5d2dc'
+  version '1.3.1,296:1552996116'
+  sha256 'ad5d291f78710df00045b0b8250b6c1f0454fa7ba781d8b04c18680fe6870228'
 
   # dl.devmate.com/io.dictionaries.Dictionaries was verified as official when first introduced to the cask
   url "https://dl.devmate.com/io.dictionaries.Dictionaries/#{version.after_comma.before_colon}/#{version.after_colon}/Dictionaries-#{version.after_comma.before_colon}.zip"

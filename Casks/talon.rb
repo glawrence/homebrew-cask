@@ -1,9 +1,9 @@
 cask 'talon' do
-  version '78-0.0.8.18'
-  sha256 'cc5cf33854152b3f325de6291ac26ee8835caaa212b09f9d63e65c3bbddef700'
+  version '98-0.0.8.38'
+  sha256 '45de05c79f7119785cf01535521e2872ed0c409018a32453804db90c6e707368'
 
   url "https://talonvoice.com/update/nmi5s3faoq6NzROd2dbCRg/Talon-#{version}.dmg"
-  appcast "https://talonvoice.com/update/nmi5s3faoq6NzROd2dbCRg/Talon-#{version}.html"
+  appcast 'https://talonvoice.com/'
   name 'Talon'
   homepage 'https://talonvoice.com/'
 

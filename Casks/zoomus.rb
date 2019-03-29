@@ -1,6 +1,6 @@
 cask 'zoomus' do
-  version '4.3.55307.0127'
-  sha256 '5f6f8b2219a2a9c77f1f53c879e2598958830f492ef2eb82a96b6b94d2a88db7'
+  version '4.3.59242.0310'
+  sha256 '7d9607abcc73d984c1ccdf7a218a446974bb8f72a03e59d74349fc50baa4379b'
 
   url "https://www.zoom.us/client/#{version}/zoomusInstaller.pkg"
   appcast 'https://support.zoom.us/hc/en-us/articles/201361963-New-Updates-for-Mac-OS'
